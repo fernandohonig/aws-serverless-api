@@ -10,6 +10,7 @@
   "description": "Sam Farm lambda function for Re:Invent 2016 Serverless miniconf",
   "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\""
   },
   "author": "roryj@amazon.com"
 }
